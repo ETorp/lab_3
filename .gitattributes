@@ -2,6 +2,10 @@
 * text=auto
 <!DOCTYPE html>
 <html>
+<head>
+<title>CS 103 | Lab 3 Part 1</title>
+<link rel="stylesheet" type="text/css" href="main.css" />
+</head>
 	<head>
     <link rel="stylesheet" type="text/css" href=" Lab 3 Part 1 | CS 103">
 		 <title> Lab 3 Part 1 | CS 103 </title>
@@ -63,8 +67,4 @@
 				</ul>     
     <!-- rgba(160, 13, 153, 1),#a00d99-->
 	</body>
-    <head>
-<title>CS 103 | Lab 3 Part 1</title>
-<link rel="stylesheet" type="text/css" href="main.css" />
-</head>
 </html>
