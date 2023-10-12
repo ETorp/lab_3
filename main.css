@@ -1,0 +1,20 @@
+h1{font-size: 64px; color: red;background-color:#000000;}
+h2{color:rgb(255,255,255);background-color:hsl(120,100%,50%);}
+h3{background-color:yellow;}
+p{color:rgba(24, 146, 160, 1);}
+ol{color:grey;Background-color:xhsla(360, 100%, 100%, 1);}
+ul{background-color:#5e26f7;}
+html{background-color:hsla(303, 85%, 34%, 1);}
+h1{font-size: 80px;}
+h2{font-weight:bold;}
+h3{font-style:italic;}
+p:first-line {font-variant: small-caps;}
+h1{text-align: center;}
+h2{text-decoration: underline;}
+em{text-transform: uppercase;}
+strong{ text-shadow: 1px 1px 1px #000, 
+               3px 3px 5px blue;}
+h3{line-height: 1.35;}
+ol{letter-spacing: 0.0625em;}
+ul{letter-spacing: 0.065em;}
+h3{word-spacing: .75em;}
